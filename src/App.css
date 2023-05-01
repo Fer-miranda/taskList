@@ -1,8 +1,22 @@
+.task{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  text-align:left;
+
+}
+
+.task button{
+  margin-left: 1%;
+  height: fit-content;
+}
+
+
 .App {
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +49,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
